@@ -1,0 +1,4 @@
+CPU temp=47.7,  GPU temp=47.8'C,  UUID=eb985ca6-4bca-11e8-9217-b827eb073165, date=2018. 04. 30. (월) 01:32:34 KST
+CPU temp=47.2,  GPU temp=47.8'C,  UUID=ec364fd8-4bca-11e8-9217-b827eb073165, date=2018. 04. 30. (월) 01:32:35 KST
+CPU temp=49.3,  GPU temp=49.4'C,  UUID=ecd3dfbe-4bca-11e8-9217-b827eb073165, date=2018. 04. 30. (월) 01:32:36 KST
+CPU temp=50.4,  GPU temp=49.9'C,  UUID=ed71d052-4bca-11e8-9217-b827eb073165, date=2018. 04. 30. (월) 01:32:37 KST
